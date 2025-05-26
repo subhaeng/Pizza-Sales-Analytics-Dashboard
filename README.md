@@ -71,5 +71,5 @@ Improve sales strategies during peak periods
 
 Adjust inventory based on demand patterns
 
-Optimize the menu by retiring or revisiting poor-performing items
+Optimize the menu by retiring or revisiting poor-performing items.
 
