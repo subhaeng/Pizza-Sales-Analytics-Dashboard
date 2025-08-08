@@ -76,6 +76,8 @@ Optimize the menu by retiring or revisiting poor-performing items.
 <a href="https://github.com/subhaeng/Pizza-Sales-Analytics-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
 ##Dashboard
-<img width="1181" height="740" alt="B or W Sheller dash" src="https://github.com/user-attachments/assets/992b058e-8086-4f95-b257-73b2e7852b4c" />
+<img width="1136" height="746" alt="Home dash" src="https://github.com/user-attachments/assets/762dfe87-8d65-4b91-b373-1b1b2a730d92" />
+<img width="1181" height="740" alt="B or W Sheller dash" src="https://github.com/user-attachments/assets/cd4de7a0-7437-41c7-8560-5edd970a8bf9" />
+
 
 
