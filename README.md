@@ -88,7 +88,7 @@ Revenue Generated
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/Pizza-Sales-Analytics-Dashboard.git
+git clone https://github.com/subhaeng/Pizza-Sales-Analytics-Dashboard.git
 
 
 Open the .pbix file in Power BI Desktop.
