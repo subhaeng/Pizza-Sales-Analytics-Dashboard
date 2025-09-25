@@ -1,18 +1,21 @@
-# Pizza-Sales-Analytics-Dashboard
-This project is a comprehensive interactive dashboard designed to analyze and visualize pizza sales data over a 12-month period (Jan–Dec). Built using Power BI, the dashboard helps business stakeholders understand sales trends, customer preferences, and operational insights to make informed decisions.
-This project is a comprehensive interactive dashboard designed to analyze and visualize pizza sales data over a 12-month period (Jan–Dec). Built using Power BI, the dashboard helps business stakeholders understand sales trends, customer preferences, and operational insights to make informed decisions.
+🍕 Pizza Sales Analytics Dashboard
+📌 Introduction
 
- Objectives:
-To identify top-selling and least-selling pizzas by revenue, quantity, and order count.
+The Pizza Sales Analytics Dashboard is an interactive and comprehensive business intelligence solution built with Power BI. It analyzes 12 months of pizza sales data (Jan–Dec) to provide restaurant managers and stakeholders with actionable insights. The dashboard helps identify sales patterns, customer preferences, and operational inefficiencies, enabling data-driven decision-making to boost revenue and optimize business performance.
 
-To understand sales performance based on pizza size, category, and time factors (day/week/month).
+🎯 Objectives
 
-To uncover patterns in customer behavior (peak days/times).
+Identify top-performing and underperforming pizzas based on revenue, quantity, and order count.
 
-To assist in inventory management, marketing campaigns, and menu optimization.
+Analyze sales performance by pizza size, category, and time trends (day/week/month).
 
- Key Features:
-KPI Summary Tiles:
+Uncover customer behavior patterns, including peak order days and times.
+
+Support inventory management, marketing campaigns, and menu optimization.
+
+✨ Key Features
+
+KPI Summary Tiles
 
 Total Revenue
 
@@ -20,61 +23,100 @@ Average Order Value
 
 Total Pizzas Sold
 
-Time-Based Analysis:
+Time-Based Analysis
 
 Orders by Day of the Week
 
 Orders by Month
 
-Category & Size Performance:
+Category & Size Performance
 
-Revenue and Orders by Pizza Category
+Revenue & Orders by Pizza Category
 
 Revenue by Pizza Size
 
-Best/Worst Sellers:
+Best & Worst Sellers
 
 Top 5 and Bottom 5 Pizzas by Revenue, Quantity, and Orders
 
-Insights into which products drive or lag business performance
+Insights into products driving or lagging performance
 
-User Interactivity:
+User Interactivity
 
-Filters by pizza category and date
+Filters by Pizza Category & Date
 
-Navigation between Home and Best/Worst Sellers views
+Easy navigation between Home and Best/Worst Sellers views
 
- Insights Delivered:
-Fridays and Saturdays are peak order days, especially in July and January.
+🔍 Insights Delivered
+
+Peak demand occurs on Fridays and Saturdays, especially in July and January.
 
 Classic pizzas are the most popular category.
 
 Large-sized pizzas generate the highest revenue.
 
-Products like Classic Deluxe and Thai Chicken drive most of the business.
+Classic Deluxe and Thai Chicken pizzas are top revenue drivers.
 
-Some pizzas like Brie Cheese and Spinach Supreme underperform and may need review or discontinuation.
+Underperforming pizzas like Brie Cheese and Spinach Supreme may require review or discontinuation.
 
-Tools & Technologies Used:
-Power BI for data visualization
+🛠 Tools & Technologies
 
-DAX for creating measures and KPIs
+Power BI → Dashboard development & visualization
 
-Excel/CSV (assumed) as the data source
+DAX → Measures & KPIs
 
- Business Value:
-This dashboard enables restaurant managers and marketing teams to:
+Excel/CSV → Data source
 
-Identify and promote top-performing pizzas
+📊 Dataset Used
 
-Improve sales strategies during peak periods
+The dataset contains detailed pizza sales transactions over a 12-month period.
+It includes information such as:
 
-Adjust inventory based on demand patterns
+Order Date & Time
 
-Optimize the menu by retiring or revisiting poor-performing items.
-##Dataset Used
-<a href="https://github.com/subhaeng/Pizza-Sales-Analytics-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
+Pizza Name
 
+Pizza Category & Size
+
+Quantity Ordered
+
+Revenue Generated
+
+(Dataset source can be added here if public, e.g., Kaggle link or internal company dataset.)
+
+🚀 Installation & Usage
+
+Download or clone this repository:
+
+git clone https://github.com/your-username/Pizza-Sales-Analytics-Dashboard.git
+
+
+Open the .pbix file in Power BI Desktop.
+
+Connect to the dataset (Excel/CSV).
+
+Refresh data to load all visuals and KPIs.
+
+Explore the dashboard using slicers and navigation buttons.
+
+💼 Business Value
+
+This dashboard empowers business teams to:
+
+Promote top-performing pizzas and optimize sales strategies.
+
+Plan inventory efficiently based on demand patterns.
+
+Adjust marketing campaigns to align with customer buying behavior.
+
+Refine the menu by eliminating or revisiting poor performers.
+
+📌 Project Structure
+Pizza-Sales-Analytics-Dashboard/
+│── data/                # Raw sales dataset (Excel/CSV)
+│── reports/             # Exported PDF/PowerPoint reports from dashboard
+│── Pizza-Sales.pbix     # Power BI dashboard file
+│── README.md            # Project documentation
 ##Dashboard
 <img width="1136" height="746" alt="Home dash" src="https://github.com/user-attachments/assets/762dfe87-8d65-4b91-b373-1b1b2a730d92" />
 <img width="1181" height="740" alt="B or W Sheller dash" src="https://github.com/user-attachments/assets/cd4de7a0-7437-41c7-8560-5edd970a8bf9" />
